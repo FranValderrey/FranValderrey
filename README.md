@@ -38,7 +38,7 @@
         <h2>¡Conéctate Conmigo!</h2>
         <p>¡Me encantaría conectarme con otros apasionados del desarrollo web y aprender juntos! No dudes en contactarme a través de:</p>
         <ul>
-            <li>📧 Correo Electrónico: <a href="fran.valderrey@gmail.com">fran.valderrey.com</a></li>
+            <li>📧 Correo Electrónico: <a href="fran.valderrey@gmail.com">fran.valderrey@gmail.com</a></li>
             <li>💬 LinkedIn: <a href="https://www.linkedin.com/in/fran-valderrey/">linkedin.com/fran-valderrey</a></li>
         </ul>
     </section>
